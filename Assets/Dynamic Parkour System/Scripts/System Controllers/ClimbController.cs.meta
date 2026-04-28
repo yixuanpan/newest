@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c149647432e0594ba0d2332dc9f41ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LHand: {instanceID: 0}
+  - RHand: {instanceID: 0}
+  - LFoot: {instanceID: 0}
+  - RFoot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
